@@ -3,10 +3,11 @@
   <groupId>com.github.ipcjs</groupId>
   <artifactId>universal-explorer</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.2</release>
     <versions>
       <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20151203130341</lastUpdated>
+    <lastUpdated>20151203155117</lastUpdated>
   </versioning>
 </metadata>
